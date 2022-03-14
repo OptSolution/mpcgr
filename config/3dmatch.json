@@ -1,0 +1,14 @@
+{
+  "voxel_size": 0.05,
+  "noise_bound": 0.05,
+  "icp_threshold": [
+    0.03
+  ],
+  "icp_iter": [
+    50
+  ],
+  "graph_max_vertex_num": 200,
+  "min_inliers_num": 10,
+  "fitness_dist": 0.05,
+  "min_fitness": 0.3
+}
